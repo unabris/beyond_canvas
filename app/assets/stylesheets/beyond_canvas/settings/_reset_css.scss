@@ -1,5 +1,4 @@
-// sass-lint:disable single-line-per-selector, force-pseudo-nesting
-
+/* stylelint-disable selector-list-comma-newline-after */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -49,4 +48,4 @@ table {
   border-spacing: 0;
 }
 
-// sass-lint:enable single-line-per-selector, force-pseudo-nesting
+/* stylelint-enable selector-list-comma-newline-after */

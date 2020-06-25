@@ -1,9 +1,9 @@
 $columns: 2, 3, 4;
 
 .container {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
+  width: 100%;
 
   &--center {
     justify-content: center;
